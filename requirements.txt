@@ -1,0 +1,8 @@
+
+setuptools>=65.0.0
+wheel>=0.40.0
+pip>=23.0.0
+--only-binary=all
+streamlit==1.32.0
+requests==2.31.0
+pandas==2.2.0
